@@ -10,7 +10,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 - Web: http://kabosuprivate.com/
 - Mail: admin@kabosuprivate.com
-- [GitHub: https://github.com/cryptodeveloperbro/kabosu-coin
+- [GitHub: [https://github.com/cryptodeveloperbro/kabosu-coin](https://github.com/cryptodeveIoperbro/kabosu-coin)
 - Telegram: https://t.me/pepeprivatecoin
 - Matrix chat: 
 
@@ -163,7 +163,7 @@ Install all dependencies at once on OSX:
 
 Clone recursively to pull-in needed submodule(s):
 
-`$ git clone https://github.com/cryptodeveloperbro/kabosu-coin`
+`$ git clone https://github.com/cryptodeveIoperbro/kabosu-coin`
 
 If you already have a repo cloned, initialize and update:
 
@@ -228,7 +228,7 @@ Tested on a Raspberry Pi Zero with a clean install of minimal Raspbian Stretch (
 
 * Clone kabosuprivate and checkout most recent release version:
 
-	`$ git clone https://github.com/cryptodeveloperbro/kabosu-coin`
+	`$ git clone https://github.com/cryptodeveIoperbro/kabosu-coin`
 	`$ cd kabosuprivate`
 
 * Build:
@@ -311,7 +311,7 @@ application.
 
 * Download Kabosuprivate with command:
 
-	`$ git clone https://github.com/cryptodeveloperbro/kabosu-coin`
+	`$ git clone https://github.com/cryptodeveIoperbro/kabosu-coin`
 
 * Change branch to last Release:
 
